@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+body {
+    color: red;
+    background: url(http://baidu.com/img/5aae522a0485ba2405faad74163971a5.jpg) no-repeat;
+}
+
+::-moz-placeholder {
+    color: gray;
+  }
+
+:-ms-input-placeholder {
+    color: gray;
+  }
+
+::-ms-input-placeholder {
+    color: gray;
+  }
+
+::placeholder {
+    color: gray;
+  }

@@ -1,0 +1,9 @@
+@import './a.css';
+body {
+    color: red;
+    background: url("./1.jpg") no-repeat;
+}
+
+::placeholder {
+    color: gray;
+  }
